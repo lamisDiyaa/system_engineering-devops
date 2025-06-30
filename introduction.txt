@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+
+My name is lamis diyaa. I am currently learning Git and GitHub to enhance my skills in version control and collaboration. I’m passionate about programming.
+
+I look forward to contributing to open source and working on exciting projects using Git.

@@ -1,0 +1,16 @@
+total 20
+drwxr-xr-x 1 NEW LAP 197121   0 Jul  6 17:13 .
+drwxr-xr-x 1 NEW LAP 197121   0 Jun 30 23:55 ..
+-rwxr-xr-x 1 NEW LAP 197121  32 Jul  1 12:27 0-hello_world
+-rw-r--r-- 1 NEW LAP 197121  43 Jun 30 21:52 0-helloworld
+-rw-r--r-- 1 NEW LAP 197121  16 Jul  1 16:40 1-confused_smiley
+-rwxr-xr-x 1 NEW LAP 197121  28 Jul  6 16:12 2-hellofile
+-rwxr-xr-x 1 NEW LAP 197121  39 Jul  6 16:29 3-twofiles
+-rwxr-xr-x 1 NEW LAP 197121  29 Jul  6 16:34 4-lastlines
+-rwxr-xr-x 1 NEW LAP 197121  29 Jul  6 16:37 5-firstlines
+-rwxr-xr-x 1 NEW LAP 197121  40 Jul  6 16:39 6-third_line
+-rwxr-xr-x 1 NEW LAP 197121  71 Jul  6 17:09 7-file
+-rwxr-xr-x 1 NEW LAP 197121  36 Jul  6 17:13 8-cwd_state
+-rw-r--r-- 1 NEW LAP 197121 323 Jul  1 12:35 README.md
+-rw-r--r-- 1 NEW LAP 197121  62 Jul  6 16:41 iacta
+-rw-r--r-- 1 NEW LAP 197121   0 Jul  6 17:13 ls_cwd_content

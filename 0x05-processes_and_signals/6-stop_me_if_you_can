@@ -1,2 +1,5 @@
 #!/usr/bin/env bash
-pkill -f 4-to_infinity_and_beyond
+# This script stops the 4-to_infinity_and_beyond process without using kill or killall
+PID=$(pgrep -f 4-to_infinity_and_beyond)
+[ -n "$PID" ] && echo > /proc/$PID/fd/0
+

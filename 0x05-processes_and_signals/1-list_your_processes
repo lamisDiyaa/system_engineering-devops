@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# A Bash script that lists all processes of the current user
+
+ps -u "$(whoami)"

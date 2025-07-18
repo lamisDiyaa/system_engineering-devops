@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Script to send SIGTERM to 7-highlander
+
+PID=$(pgrep -f 7-highlander)
+[ -n "$PID" ] && kill -s SIGTERM "$PID"
